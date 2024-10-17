@@ -10,13 +10,14 @@
 ### BÀI TOÁN 1: Báo cáo tình hình tín dụng 6 tháng đầu năm
 - Truy vấn: Xem truy vấn tại BAOCAO_TINDUNG.sql
 - Kết quả:
-| STT | Nội dung | 31/12/2022 | 6 tháng đầu năm 2023 |  | 6 tháng cuối năm 2023 |  | 31/12/2023 |
+
+| **STT** | **Nội dung** | **31/12/2022** | **6 tháng đầu năm 2023** |  | **6 tháng cuối năm 2023** |  | **31/12/2023** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Phát sinh tăng | Phát sinh giảm | Phát sinh tăng | Phát sinh giảm |  |
-| 1 | Số hợp đồng tín dụng | 97| 7 | 10 | 6 | 11 | 89 |
-| 2 | Số lượng khách hàng | 70 | 3 | 7 | 2 | 8 | 60 |
-| 3 | Tổng tiền giải ngân | 4,357,124,475,047 | 20,300,000,000 | 32,740,000,000 | 53,100,000,000 | 1,020,478,000,000 | 3,377,306,475,047 |
-| 4 | Dư nợ tín dụng (nợ gốc còn lại) | 2,602,895,025,966 | 20,300,000,000 | 8,228,333,330 | 53,100,000,000 | 1,017,633,371,716 | 1,650,433,320,888 |
+|  |  |  | **Phát sinh tăng** | **Phát sinh giảm** | **Phát sinh tăng** | **Phát sinh giảm** |  |
+| 1 | **Số hợp đồng tín dụng** | 97| 7 | 10 | 6 | 11 | 89 |
+| 2 | **Số lượng khách hàng** | 70 | 3 | 7 | 2 | 8 | 60 |
+| 3 | **Tổng tiền giải ngân** | 4,357,124,475,047 | 20,300,000,000 | 32,740,000,000 | 53,100,000,000 | 1,020,478,000,000 | 3,377,306,475,047 |
+| 4 | **Dư nợ tín dụng (nợ gốc còn lại)** | 2,602,895,025,966 | 20,300,000,000 | 8,228,333,330 | 53,100,000,000 | 1,017,633,371,716 | 1,650,433,320,888 |
 
   Dựa trên dữ liệu được cung cấp, chúng ta có thể rút ra một số thông tin quan trọng từ các chỉ số hiệu suất tín dụng của ngân hàng từ cuối năm 2022 đến cuối năm 2023.
 
@@ -48,12 +49,13 @@
 ### BÀI TOÁN 2: Báo cáo tình hình tài sản thế chấp 6 tháng đầu năm
 - Truy vấn: Xem truy vấn tại BAOCAO_TAISANTHECHAP.sql
 - Kết quả:
-| STT | Nội dung | 31/12/2022 | 6 tháng đầu năm 2023 |  | 6 tháng cuối năm 2023 |  | 31/12/2023 |
+
+| **STT** | **Nội dung** | **31/12/2022** | **6 tháng đầu năm 2023** |  | **6 tháng cuối năm 2023** |  | **31/12/2023** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Phát sinh tăng | Phát sinh giảm | Phát sinh tăng | Phát sinh giảm |  |
-|  | TSBD |  |  |  |  |  |  |
-| 1 | Số TSBD | 145 | 25 | 9 | 19 | 26 | 154 |
-| 2 | Tổng giá trị TSBD | 17,763,992,591,577 | 603,667,420,000 | 429,394,000,000 | 1,309,214,248,973 | 1,664,357,100,494 | 17,583,123,160,056 |
+|  |  |  | **Phát sinh tăng** | **Phát sinh giảm** | **Phát sinh tăng** | **Phát sinh giảm** |  |
+|  | **TSBD** |  |  |  |  |  |  |
+| 1 | **Số TSBD** | 145 | 25 | 9 | 19 | 26 | 154 |
+| 2 | **Tổng giá trị TSBD** | 17,763,992,591,577 | 603,667,420,000 | 429,394,000,000 | 1,309,214,248,973 | 1,664,357,100,494 | 17,583,123,160,056 |
 
 Dựa trên dữ liệu liên quan đến tài sản thế chấp (TSBD) trong nửa đầu và nửa cuối năm 2023, chúng ta có thể rút ra một số thông tin chi tiết quan trọng như sau:
 
@@ -86,8 +88,9 @@ Dựa trên dữ liệu liên quan đến tài sản thế chấp (TSBD) trong n
 
 ### BÀI TOÁN 3: BÁO CÁO TÌNH HÌNH TĂNG TRƯỞNG QUA CÁC NĂM
 - Truy vấn: Xem tại BAOCAO_TANGTRUONG.sql
-- Kết quả: 
-| STT | Thời điểm | Tổng giá trị HĐTD (Chưa tất toán) | Tăng trưởng (so với cùng kỳ năm trước) | Tổng giá trị TSBDD (Chưa xuất tài sản) | Tăng trưởng (so với cùng kỳ năm trước) |
+- Kết quả:
+ 
+| **STT** | **Thời điểm** | **Tổng giá trị HĐTD (Chưa tất toán)** | **Tăng trưởng (so với cùng kỳ năm trước)** | **Tổng giá trị TSBDD (Chưa xuất tài sản)** | **Tăng trưởng (so với cùng kỳ năm trước)** |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 31/12/2021 | 2,702,834,923,508 | 100% | 17,989,974,014,144 | 100% |
 | 2 | 31/12/2022 | 2,602,895,025,966 | 96,3024% | 17,763,992,591,577 | 98,7438% |
